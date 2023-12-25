@@ -1,1 +1,1 @@
-### This repository contains main codes used in manuscript entitled "Spatiotemporal transcriptomics unravels the spatial organization of ovarian architecture during early oogenesis in pigs" by Ge et al.
+### This repository contains the main codes used in the manuscript entitled "Spatiotemporal transcriptomics unveils the dynamic spatial characteristics of early oogenesis and the crucial role of ovarian microenvironments on germ cell fate in pigs" by Ge et al.
